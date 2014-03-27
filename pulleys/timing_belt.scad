@@ -1,7 +1,7 @@
-// By Erik de Bruijn <reprap@erikdebruijn.nl>
-// License: GPLv2 or later
-// Modified by James Newton <jamesnewton@massmind.org> as follows:
+// By Erik de Bruijn
+// Modified by James Newton 
 // Modified by brendan reddy-best
+// License: GPLv2 or later
 
 include <MCAD/teardrop.scad>
 toothType = 2; // 1 = slightly rounded, 2 = oval sharp, 3 = square. For square, set the toothWith a little low.
